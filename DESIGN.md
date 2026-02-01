@@ -1,6 +1,6 @@
 # Design Document - Junior Developer Edition
 ## Distributed Task Scheduler & Job Queue
-
+ 
 **Version:** 1.0  
 **Last Updated:** February 1, 2026  
 **Team:** 2 SDE-1 Developers (1 year experience)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 1. What Are We Building?
+## 1. What Are We Building???
 
 A **task scheduler** is a system that:
 1. Accepts work to be done (tasks)

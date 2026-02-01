@@ -18,7 +18,7 @@
 
 ## Phase 1: Foundation & Core Setup (Weeks 1-2)
 
-### Week 1: Project Initialization & Infrastructure
+### Week 1: Project Initialization & Infrastructure...
 
 #### 1.1 Project Setup
 - [ ] **[P0]** Create Maven multi-module project structure

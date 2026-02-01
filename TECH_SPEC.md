@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Technology Stack (Simplified)
+## 1. Technology Stack (Simplified)  ,,,
 
 ### 1.1 Core Technologies
 
